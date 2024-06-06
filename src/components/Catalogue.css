@@ -1,0 +1,14 @@
+.initial-screen {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.initial-screen h2 {
+	font-size: 40px;
+}
+
+.initial-screen p {
+	font-size: 24px;
+}

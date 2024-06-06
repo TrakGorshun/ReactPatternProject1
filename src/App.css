@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;
+	border: 2px solid #ccc;
+	max-width: 16%;
+	margin: 0 auto;
+	background-color: #1d5c00;
+}
+body {
+	background-color: #333;
+	color: #fff;
+}
